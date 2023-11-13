@@ -1,0 +1,16 @@
+C:\Users\Hp\source\repos\RefvsOut\bin\Debug\net5.0\RefvsOut.exe
+C:\Users\Hp\source\repos\RefvsOut\bin\Debug\net5.0\RefvsOut.deps.json
+C:\Users\Hp\source\repos\RefvsOut\bin\Debug\net5.0\RefvsOut.runtimeconfig.json
+C:\Users\Hp\source\repos\RefvsOut\bin\Debug\net5.0\RefvsOut.runtimeconfig.dev.json
+C:\Users\Hp\source\repos\RefvsOut\bin\Debug\net5.0\RefvsOut.dll
+C:\Users\Hp\source\repos\RefvsOut\bin\Debug\net5.0\RefvsOut.pdb
+C:\Users\Hp\source\repos\RefvsOut\obj\Debug\net5.0\RefvsOut.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\RefvsOut\obj\Debug\net5.0\RefvsOut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\RefvsOut\obj\Debug\net5.0\RefvsOut.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\RefvsOut\obj\Debug\net5.0\RefvsOut.AssemblyInfo.cs
+C:\Users\Hp\source\repos\RefvsOut\obj\Debug\net5.0\RefvsOut.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\RefvsOut\obj\Debug\net5.0\RefvsOut.dll
+C:\Users\Hp\source\repos\RefvsOut\obj\Debug\net5.0\refint\RefvsOut.dll
+C:\Users\Hp\source\repos\RefvsOut\obj\Debug\net5.0\RefvsOut.pdb
+C:\Users\Hp\source\repos\RefvsOut\obj\Debug\net5.0\RefvsOut.genruntimeconfig.cache
+C:\Users\Hp\source\repos\RefvsOut\obj\Debug\net5.0\ref\RefvsOut.dll

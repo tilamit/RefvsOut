@@ -1,0 +1,14 @@
+C:\Users\Hp\source\repos\RefvsOut\bin\Debug\netcoreapp3.1\RefvsOut.exe
+C:\Users\Hp\source\repos\RefvsOut\bin\Debug\netcoreapp3.1\RefvsOut.deps.json
+C:\Users\Hp\source\repos\RefvsOut\bin\Debug\netcoreapp3.1\RefvsOut.runtimeconfig.json
+C:\Users\Hp\source\repos\RefvsOut\bin\Debug\netcoreapp3.1\RefvsOut.runtimeconfig.dev.json
+C:\Users\Hp\source\repos\RefvsOut\bin\Debug\netcoreapp3.1\RefvsOut.dll
+C:\Users\Hp\source\repos\RefvsOut\bin\Debug\netcoreapp3.1\RefvsOut.pdb
+C:\Users\Hp\source\repos\RefvsOut\obj\Debug\netcoreapp3.1\RefvsOut.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\RefvsOut\obj\Debug\netcoreapp3.1\RefvsOut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\RefvsOut\obj\Debug\netcoreapp3.1\RefvsOut.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\RefvsOut\obj\Debug\netcoreapp3.1\RefvsOut.AssemblyInfo.cs
+C:\Users\Hp\source\repos\RefvsOut\obj\Debug\netcoreapp3.1\RefvsOut.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\RefvsOut\obj\Debug\netcoreapp3.1\RefvsOut.dll
+C:\Users\Hp\source\repos\RefvsOut\obj\Debug\netcoreapp3.1\RefvsOut.pdb
+C:\Users\Hp\source\repos\RefvsOut\obj\Debug\netcoreapp3.1\RefvsOut.genruntimeconfig.cache

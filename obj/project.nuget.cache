@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "tw8JdAW1RL4hxD3lkvfU4r6InCVT3bxKnA5cwd2rDvkz4JkXSMV80h554/JRgUNbdvmGLCoJRciOxJZZ0EYhvQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Hp\\source\\repos\\RefvsOut\\RefvsOut.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hp\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Hp\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Hp\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Hp\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
